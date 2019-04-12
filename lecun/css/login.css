@@ -1,0 +1,19 @@
+/*body {font: 12px/20px Arial, Verdana, "微软雅黑", "Lucida Grande", "Lucida Sans Unicode", Helvetica, sans-serif;color: #666;}*/
+#login-t{width: 100%;background: #E7E7E7;}
+.login-top{width: 1000px;height: 97px;margin: 0 auto;}
+.login-top h2 {float: right;color: #333333;font-size: 18px;padding-top: 67px;}
+.login-top p {float: left;height: 73px;line-height: 73px;padding-top: 14px;}
+.login-top p span {display: inline-block;float: left;height: 73px;padding-right: 21px;}
+.login-top p b {display: inline-block;float: left;padding-left: 21px;color: #333333;font-size: 24px;font-weight: 400;}
+#login-c{width: 100%;height: 655px;border-top: 2px solid #eb0000;background:url(https://www.lecuntao.com/shop/templates/default/images/pic3.jpg) no-repeat center;}
+.login-box {width: 400px;float: right;margin-top: 74px; margin-right: 50px;}
+.login-box h3 {position: relative;height: 55px;line-height: 55px;color: #ffffff;font-size: 18px;padding-left: 21px;background: #666666;}
+.login-input{width: 100%;background: #fff;padding-bottom: 0px;}
+.login-input ul{padding: 20px;}
+.login-input ul li{margin-bottom: 20px;width: 100%;}
+.login-input ul li p.name{width: 358px;height: 40px;border: 1px solid #bbbbbb;background: #faf9f9;}
+.login-input ul li p.name input{float: left;width:100%;height:100%;background:#faf9f9;border: 0;color: #333333;font:14px/40px "微软雅黑";text-indent: 2em;}
+.login-input ul li p.pass{width: 358px;height: 40px;border: 1px solid #bbbbbb;background: #faf9f9;margin-bottom: 20px;}
+.login-input ul li p.pass input{float: left;width:100%;height:100%;background:#faf9f9;border: 0;color: #333333;font:14px/40px "微软雅黑";text-indent:2em;}
+.login-input ul li p.btnlog{width: 358px;height: 40px;}
+.login-input ul li p.btnlog input{width:100%;height:100%;float: left;background-color: red;color: white;border:0}
